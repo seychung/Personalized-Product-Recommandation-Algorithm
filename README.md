@@ -8,7 +8,4 @@ The problem is that users has to suffer seein irerelvent recommdantions repeated
 This causes stresses on users expereinces on the using platform.
 
 Therefore, this product is to take considerations of what products that users disliked from being recommdaned,
-and minize the number of the disliked product being recommdanded to the users repeatly.
-
-TTTTT
-asdasd
+and minimize the number of the disliked product being recommdanded to the users repeatly.
